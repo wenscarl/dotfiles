@@ -37,7 +37,7 @@ vim.cmd([[
   set background=dark
 ]])
 vim.cmd.colorscheme("tokyonight-night")
-vim.cmd.colorscheme("modus")
+-- vim.cmd.colorscheme("modus")
 -- vim.cmd.colorscheme("gruvbox-baby")
 -- vim.cmd.colorscheme "eldritch"
 
